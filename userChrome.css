@@ -14,7 +14,7 @@
 @import url("global/tweaks.css");
 @import url("tweaks/hide-tabs-bar.css");
 @import url("tweaks/extensions.css");
-@import url("tweaks/sidebar.css");
+/* @import url("tweaks/sidebar.css"); */
 @import url("tweaks/popup-search.css");
 
 /* Enable translucency on browser toolbars. (MacOS only) */
